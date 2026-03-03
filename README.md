@@ -1,7 +1,7 @@
 # SDOF DELAY FEEDBACK VST3 SOURCEC JUCE FILES
 
-Este repositorio alberga el Código fuente para compilar "SDOFDelay" vst plugin desarrollado con el framework JUCE
-contiene los archivos para Windows&Linux    
+Este repositorio alberga el Código fuente para compilar "SDOFDelay" vst plugin  
+desarrollado con el framework JUCE contiene los archivos para Windows&Linux    
 
 <img width="561" height="625" alt="image" src="https://github.com/user-attachments/assets/cd8a21bb-3df9-4216-847f-018824f356d3" />    
 
@@ -41,7 +41,7 @@ Comenzando
 
 -Cerrar ventana de projucer y acceder a la ruta en windows recién creada por el proyecto.  
 esta debe contener tres carpetas y el archivo de proyecto: Builds, JuceLibraryCode, Source & SDOFDelayFeedback.jucer.  
--Copiar pegar y reemplazar los archivos de la carpeta "Source" de este repositorio en la carpeta "Source" del proyecto recien creado.  
+-Copiar pegar y reemplazar los archivos de la carpeta main de este repositorio en la carpeta Source del proyecto recien creado.  
 -Ejecutar el archivo SDOFDelayFeedback.jucer con la aplicacion ProJucer.  
 -Abrir explorador de archivos del proyecto y seleccionar añadir archivos ya existentes:  
 
@@ -61,7 +61,8 @@ esta debe contener tres carpetas y el archivo de proyecto: Builds, JuceLibraryCo
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3ad47d7-f4b0-4a8c-902e-d56d7ff130ae" />  
 
 -Una vez compilada la solución quedará un archivo extension .vst3 comunmente en la ruta: SDOFDelayFeedback\Builds\VisualStudio2026\x64\Release\VST3\SDOFDelayFeedback.vst3\Contents\x86_64-win  
-<img width="1126" height="25" alt="image" src="https://github.com/user-attachments/assets/9551226b-5e50-47cb-8791-341cbf426057" />
+
+<img width="1126" height="25" alt="image" src="https://github.com/user-attachments/assets/9551226b-5e50-47cb-8791-341cbf426057" />  
 
 Este archivo puede ser leído por cualquier DAW en windows que soporte vst3.
 Los mismos pasos pueden seguirse para compilar la solución stand alone y obtener una aplicación ejecutable para windows.  

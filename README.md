@@ -1,4 +1,4 @@
-# SDOF DELAY FEEDBACK VST3 JUCE FILES
+# SDOF DELAY FEEDBACK VST3 SOURCEC JUCE FILES
 
 Este repositorio alberga el Código fuente para compilar "SDOFDelay" vst plugin desarrollado con el framework JUCE
 contiene los archivos para Windows&Linux  

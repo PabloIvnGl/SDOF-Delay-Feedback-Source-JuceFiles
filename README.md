@@ -1,8 +1,8 @@
-# SDOF DELAY FEEDBACK VST3 SOURCE JUCE FILES
+# SDOF DELAY FEEDBACK VST3&so SOURCE JUCE FILES
 
-Este repositorio alberga el código fuente para compilar "SDOFDelayFeedback" VST plugin desarrollado con el framework JUCE 
+Este repositorio alberga el código fuente para compilar "SDOFDelayFeedback" VST plugin desarrollado con el framework JUCE
 
--Elaborado bajo licencia GNU: SDOF LAB por -Pablo Iván Gutiérrez Legent-
+
 
 <img width="561" height="625" alt="image" src="https://github.com/user-attachments/assets/cd8a21bb-3df9-4216-847f-018824f356d3" />    
 
@@ -121,8 +121,10 @@ para ejecutar un compilador por consola de comandos en la ruta indicada, abriend
 <img width="930" height="164" alt="image" src="https://github.com/user-attachments/assets/8eff740f-87d3-478c-84a0-4883cd0f5a07" />  
 
 
-Este archivo puede ser leído por cualquier DAW en LINUX que soporte So.  
+Este archivo puede ser leído por cualquier DAW en LINUX que soporte so.  
 Los mismos pasos compilan la solución standalone creando un ejecutable para linux.        
 
 
+
+-Elaborado bajo licencia GNU: SDOF LAB por -Pablo Iván Gutiérrez Legent-
 

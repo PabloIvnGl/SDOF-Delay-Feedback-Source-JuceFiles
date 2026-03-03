@@ -1,7 +1,7 @@
 #  
 # 🎛️ SDOF DELAY FEEDBACK VST3&so SOURCE JUCE FILES
 
- 📁Este repositorio contiene el código fuente para compilar "SDOFDelayFeedback" VST plugin desarrollado con el framework JUCE
+ 📁Este repositorio contiene el código fuente para compilar "SDOFDelayFeedback" VST plugin desarrollado con el framework JUCE para Windows y Linux en un futuro el proyecto pretende sumar una compilación para distribuir en MacOs.  
 
 
 
@@ -29,7 +29,7 @@ https://github.com/juce-framework/JUCE/blob/master/docs/Linux%20Dependencies.md
 
 🛠️ Para compilar el archivo VST3 se requiere el framework "JUCE" y la aplicación ProJucer todo lo referido a la compilación y descarga está disponible en GitHub juce-framework: https://github.com/juce-framework/JUCE.     
 
-# 🚀 Start  
+## 🚀 Start  
 
 -Ejecutar ProJUCER contenido en extras de la descarga de juce 709 para Windows.  
 -Crear un nuevo proyecto de tipo Plug-In->Basic con el nombre "SDOFDelayFeedback".  
@@ -86,7 +86,7 @@ https://github.com/juce-framework/JUCE/blob/master/docs/Linux%20Dependencies.md
 
 
 
-# 🚀 Start  
+## 🚀 Start  
 
 -Compila ProJucer utilizando make ya que JUCE en su repositorio no incluye la app ProJucer pre compilada en su version de descarga para Linux
 esto está documentado por JUCE en el siguiente enlace: https://github.com/juce-framework/JUCE?tab=readme-ov-file#the-projucer.  
